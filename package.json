@@ -1,0 +1,9 @@
+{
+    "name": "node-server",
+    "description": "A Sample Node.js app using Express 4",
+    "dependencies": {
+        "express": "4.18.2"
+    },
+    "author": "Aryan Sharma",
+    "license": "MIT"
+}
